@@ -13,6 +13,7 @@ fastapi = "^0.120.4"
 pydantic = "^2.12.3"
 openpyxl = "^3.1.5"
 pathlib = "^1.0.1"
+pytest = "^8.4.2"
 
 
 [build-system]
